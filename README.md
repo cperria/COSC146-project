@@ -4,4 +4,5 @@
 class project
 
 
-Created a repository with a read me file to prepare for upcoming project
+_Created a repository with a read me file to prepare for __upcoming__ project_
+
